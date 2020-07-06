@@ -2,12 +2,16 @@
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/konpa/devicon@df6431e323547add1b4cf45992913f15286456d3/devicon.min.css">
 <html lang="ko">
   {% include head.html %}
-  <body>
-      {% include header.html %}
-      <section id="about">
+<body>
+    {% include header.html %}
+    <section id="about">
         {% include about.html %}
-      </section>
-        {{ content }}
-      {% include footer.html %}
-  </body>
+
+        {% for post in site.posts %}
+        <h1>{{post.title}}</h1>
+        <p>{{post.content}}</p>
+        {% endfor %}
+    </section>  
+    {% include footer.html %}
+</body>
 </html>

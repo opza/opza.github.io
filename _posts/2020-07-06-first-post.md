@@ -1,5 +1,6 @@
--------------------------
-title : My first post!!
--------------------------
+---
+layout : default
+title : First post
+---
 
-My first post~~
+My first post!
