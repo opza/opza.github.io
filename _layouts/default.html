@@ -5,13 +5,9 @@
 <body>
     {% include header.html %}
     <section id="about">
-        {% include about.html %}
-
-        {% for post in site.posts %}
-        <h1>{{post.title}}</h1>
-        <p>{{post.content}}</p>
-        {% endfor %}
+        {% include about.html %}       
     </section>  
+    {% include posts.html %}
     {% include footer.html %}
 </body>
 </html>

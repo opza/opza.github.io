@@ -1,0 +1,18 @@
+.posts {
+    text-align: center;
+    margin: 5px auto;
+
+    h1 {
+        text-align : left;
+    }
+
+    .post{
+        margin :.5rem;
+        padding : .3rem;
+        border-left-width : 9px;
+    }
+
+    p {
+        font-size : 20px;
+    }
+}
