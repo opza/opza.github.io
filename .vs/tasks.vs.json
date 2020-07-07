@@ -1,0 +1,10 @@
+{
+  "version": "0.2.1",
+  "tasks": [
+    {
+      "taskLabel": "task-2020-07-06-first-post",
+      "appliesTo": "_posts/2020-07-06-first-post.md",
+      "type": "launch"
+    }
+  ]
+}

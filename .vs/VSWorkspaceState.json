@@ -1,11 +1,13 @@
 {
   "ExpandedNodes": [
     "",
-    "\\assets",
-    "\\css",
-    "\\_includes",
-    "\\_sass"
+    "\\assets\\js",
+    "\\_drafts",
+    "\\_posts",
+    "\\_posts\\2020",
+    "\\_posts\\2020\\07",
+    "\\_posts\\2020\\07\\07"
   ],
-  "SelectedNode": "\\_includes\\footer.html",
+  "SelectedNode": "\\_posts",
   "PreviewInSolutionExplorer": false
 }
