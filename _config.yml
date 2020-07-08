@@ -1,12 +1,12 @@
 # Site settings
-title: Title
-description: Resume Website
+title: 개발일지
+description: 개인 개발일지 블로그
 # baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://opza.github.io" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
 
 # User settings
 username: Opza
-user_description: description
+user_description: "Unity / C#"
 user_title: Software Engineer
 email: itopza@naver.com
 # twitter_username: lorem_ipsum
