@@ -5,6 +5,11 @@
       "taskLabel": "task-2020-07-06-first-post",
       "appliesTo": "_posts/2020-07-06-first-post.md",
       "type": "launch"
+    },
+    {
+      "taskLabel": "task-2020-07-10-02-post",
+      "appliesTo": "_posts/2020/07/10/2020-07-10-02-post.md",
+      "type": "launch"
     }
   ]
 }

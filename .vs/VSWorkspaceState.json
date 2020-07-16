@@ -1,13 +1,17 @@
 {
   "ExpandedNodes": [
     "",
-    "\\assets\\js",
-    "\\_drafts",
+    "\\img",
+    "\\img\\2020",
+    "\\img\\2020\\07",
+    "\\img\\2020\\07\\08",
+    "\\_includes",
     "\\_posts",
     "\\_posts\\2020",
     "\\_posts\\2020\\07",
-    "\\_posts\\2020\\07\\07"
+    "\\_posts\\2020\\07\\08",
+    "\\_posts\\2020\\07\\10"
   ],
-  "SelectedNode": "\\_posts",
+  "SelectedNode": "\\_posts\\2020\\07\\10\\2020-07-10-02-post.md",
   "PreviewInSolutionExplorer": false
 }
